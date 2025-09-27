@@ -3,7 +3,6 @@ import sys
 import pandas as pd
 from bs4 import BeautifulSoup
 
-
 def download_public_google_doc(url):
     try:
         # Fetch the HTML content of the published document
