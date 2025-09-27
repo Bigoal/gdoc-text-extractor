@@ -1,0 +1,19 @@
+# virtualenv
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# docs preview image (optional)
+docs/preview.png
